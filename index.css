@@ -1,4 +1,23 @@
+
+h1 {
+border-style: solid;
+border: 2px solid red;
+border-radius: 25px;
+color: rgb(243, 183, 106);
+}
+
+#row1-section1 {
+
+
+}
+
+.jordans-1-desc {
+font-style: Copperplate;
+}
+
 /* Write Your CSS Below 
+
+
 Colors: 
 - rgb(243, 183, 106)
 - yellow
