@@ -1,19 +1,81 @@
+body{
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-size: cover;
+
+}
 
 h1 {
-border-style: solid;
-border: 2px solid red;
-border-radius: 25px;
-color: rgb(243, 183, 106);
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 10px yellow;
+    color: rgb(109, 0, 251);
+    background-image: linear-gradient(lightblue, red);
+    border-radius: .5em;
+    margin-top: 3rem;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
 }
 
-#row1-section1 {
-
-
+#row1-section1 img {
+    box-shadow: 2px 2px 2px 2px blue;
+    margin-left: 200px;
+    margin-right: 500px;
 }
 
-.jordans-1-desc {
-font-style: Copperplate;
+
+
+#jordans-1-desc {
+    background-color: rgb(116, 201, 241);
+    border-style: solid;
+    border-color: rgb(241, 117, 0);
+    border-radius: 0.5em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 600px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: Copperplate;
+    color: white;
+    
 }
+
+#row2-section1 img {
+    box-shadow: 2px 2px 2px 2px red;
+    margin-left: 600px;
+    
+}
+
+#jordans-2-desc {
+    background-color: rgb(251, 64, 64);
+    border-style: solid;
+    border-color: rgb(13, 110, 0);
+    border-radius: 0.5em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 600px;
+    margin-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: Copperplate;
+    color: white;
+}
+
+
+
+
+
+
+
 
 /* Write Your CSS Below 
 
